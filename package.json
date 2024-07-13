@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://devopspro.github.io/github-action",
+  "homepage": "https://zalalbd2008.github.io/github-action/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
